@@ -1,7 +1,6 @@
-# 🌊Hydrological Flow Model
-
-# ✅<a href="https://colab.research.google.com/github/1kaiser/hydrological-model/blob/master/%F0%9F%8C%8Ahydrological_model_Jax.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
+# <div align="center">🌊Hydrological Flow Model</div>
+## <div align="left">✅<a href="https://colab.research.google.com/github/1kaiser/hydrological-model/blob/master/%F0%9F%8C%8Ahydrological_model_Jax.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+</div>
 Implementation of the D8 algorithm, a lake identification and flow algorithm with python and matplotlib.
 
 This code implements a flow algorithm using a DEM and rainfall data. It further identifies and fills pitflags / lakes and develops a drainage algorithm using a gravitation model towards the lake outflow. For more information and pseudo-code of the drainage algorithm see: [www.geo-blog.com/lake-flow-algorithm](http://www.geo-blog.com/lake-flow-algorithm/)
